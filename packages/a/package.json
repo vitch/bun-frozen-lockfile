@@ -1,5 +1,6 @@
 {
-  "name": "bun-frozen-lockfile",
+  "name": "a",
+  "private": true,
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -7,8 +8,5 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
-  },
-  "workspaces": [
-    "packages/*"
-  ]
+  }
 }
